@@ -15,5 +15,5 @@ $mercedes = new Cars();
 
 
 $bmw->greeting();
-$mercedes->greeting();
+
 ?>
